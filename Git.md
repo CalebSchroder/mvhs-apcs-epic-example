@@ -30,3 +30,4 @@
 
 #Problems
 * commit without -m -> use Esc :wq to quit Vim
+* wrong message -> git commit --amend -m "New Message"
