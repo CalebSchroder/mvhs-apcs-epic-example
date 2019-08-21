@@ -13,7 +13,9 @@
 #3 Step Repeating Commit Process
 1. Makes Changes to Code
 2. Stage Related Changes
+    * git add
 3. Commit Changes with a message
+    * git commit -m "Message"
 
 #Commands
 
