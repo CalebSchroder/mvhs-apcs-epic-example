@@ -9,6 +9,10 @@
  #Project Setup
 
 `git init`
+`touch .gitignore`
+Add `*.class` to the .gitignore file and save it.
+`git add .`
+`git commit -m "Intitial Commit"`  
 
 #3 Step Repeating Commit Process
 1. Makes Changes to Code
